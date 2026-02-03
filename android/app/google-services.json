@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516147692554",
+    "project_id": "visiting2-6e83e",
+    "storage_bucket": "visiting2-6e83e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516147692554:android:7a631d70ed216259368bf3",
+        "android_client_info": {
+          "package_name": "com.example.visiting_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVxwVug1UZhAYO3zRnukCu2bTKlnmghPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
